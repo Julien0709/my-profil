@@ -1,0 +1,95 @@
+.card-white {
+	text-align: center;
+	padding: 10px
+	background color: white;
+	margin: 25px 0;
+	border-radius: 4px;
+	box-shadow: 3px 5px 5px;
+	font-family: helvetica;
+	max-width: 100%;
+	margin-top: 1cm;
+	padding: 25px;
+
+}
+
+.container {
+	margin: 20px auto;
+	width: 700px;
+	padding: 20px 18px;
+}
+
+img {
+	border-radius: 150px;
+	height: 150px
+	max-width: 150px;
+	text-align: center;
+
+}
+
+ul {
+	margin-right: 1cm;
+	margin-top: 1cm;
+
+}
+
+.card {
+	background-color: white;
+	padding: 20px;
+	margin: 20px auto;
+	border-radius: 10px;
+	text-align: center;
+	box-shadow: 5px 10px 10px;
+
+}
+
+h1 {
+	color: rgb(40,40,102);
+	font-weight: bold, italic;
+	font-family: Fieldwork Geo Thin, sans-serif; 
+	font-size: 35px;
+}
+
+h2, h3, h4, h5, h6 {
+	font-weight: 900;
+	color: darkslategray;
+	font-family: cambria;
+	padding: none;
+
+}
+
+body {
+	background: rgb(40, 15, 20);
+	background: linear-gradient(60deg, rgba(40,15,20,1) 0%, rgba(80,95,180,1) 30%, rgba(128,217,260,1) 95%);
+}
+
+html {
+	text-align: center;
+}
+
+li, p {
+	color: black;
+	padding: none;
+
+}
+
+div {
+	background-color: white;
+	padding: 10px;
+	text-align: center; 
+	border-radius: 4px;
+
+}
+
+a:hover {
+	color: black;
+}
+
+a:href {
+	color: black;
+}
+
+
+
+
+
+
